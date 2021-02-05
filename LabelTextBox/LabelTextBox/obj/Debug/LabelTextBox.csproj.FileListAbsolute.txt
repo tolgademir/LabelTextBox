@@ -8,3 +8,13 @@ C:\Users\tolga\Desktop\c# proje\LabelTextBox\LabelTextBox\obj\Debug\LabelTextBox
 C:\Users\tolga\Desktop\c# proje\LabelTextBox\LabelTextBox\obj\Debug\LabelTextBox.csproj.CoreCompileInputs.cache
 C:\Users\tolga\Desktop\c# proje\LabelTextBox\LabelTextBox\obj\Debug\LabelTextBox.exe
 C:\Users\tolga\Desktop\c# proje\LabelTextBox\LabelTextBox\obj\Debug\LabelTextBox.pdb
+C:\Users\tolga\Documents\GitHub\LabelTextBox\LabelTextBox\LabelTextBox\bin\Debug\LabelTextBox.exe.config
+C:\Users\tolga\Documents\GitHub\LabelTextBox\LabelTextBox\LabelTextBox\bin\Debug\LabelTextBox.exe
+C:\Users\tolga\Documents\GitHub\LabelTextBox\LabelTextBox\LabelTextBox\bin\Debug\LabelTextBox.pdb
+C:\Users\tolga\Documents\GitHub\LabelTextBox\LabelTextBox\LabelTextBox\obj\Debug\LabelTextBox.csprojAssemblyReference.cache
+C:\Users\tolga\Documents\GitHub\LabelTextBox\LabelTextBox\LabelTextBox\obj\Debug\LabelTextBox.Form1.resources
+C:\Users\tolga\Documents\GitHub\LabelTextBox\LabelTextBox\LabelTextBox\obj\Debug\LabelTextBox.Properties.Resources.resources
+C:\Users\tolga\Documents\GitHub\LabelTextBox\LabelTextBox\LabelTextBox\obj\Debug\LabelTextBox.csproj.GenerateResource.cache
+C:\Users\tolga\Documents\GitHub\LabelTextBox\LabelTextBox\LabelTextBox\obj\Debug\LabelTextBox.csproj.CoreCompileInputs.cache
+C:\Users\tolga\Documents\GitHub\LabelTextBox\LabelTextBox\LabelTextBox\obj\Debug\LabelTextBox.exe
+C:\Users\tolga\Documents\GitHub\LabelTextBox\LabelTextBox\LabelTextBox\obj\Debug\LabelTextBox.pdb

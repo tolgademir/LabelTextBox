@@ -23,6 +23,13 @@ namespace LabelTextBox
 
             label1.Text = textBox1.Text;
 
+
+
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("www.tekohaber.com");
         }
     }
 }
